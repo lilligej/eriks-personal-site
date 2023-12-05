@@ -6,3 +6,7 @@
 .card-hover:hover {
     transform: scale(1.03);
 }
+
+.container-full {
+    width: 100%;
+}
